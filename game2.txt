@@ -1,7 +1,7 @@
-[ime_igrača] ima x pobjeda i y poraza!
+ Margareta ima x pobjeda i y poraza!
 Luce Latin ima z pobjeda i n poraza!
 
 . . .
-o . .
+o x .
 . . .
 
